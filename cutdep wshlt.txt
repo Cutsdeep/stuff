@@ -1,17 +1,6 @@
 title:cutdep wshlt
 description:cutdepe
 
-// Khvostov 7G-0X (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=4129629253&perks=3250034553,3250034553,3250034553,3250034553,3250034553,3250034553
-
-
-// Khvostov 7G-0X (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=4129629253&perks=3250034553,1431678320,2135276011,3700496672,3465198467
-
-
-// Khvostov 7G-0X ()
-dimwishlist:item=4129629253&perks=
+dimwishlist:item=2273643087&perks=183430253,1476923957
 
 
